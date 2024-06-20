@@ -1683,11 +1683,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ananas_api\\Solution1\\Ananas_Ecommerce\\Ananas_Ecommerce.csproj",
+      "projectUniqueName": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Ananas_Ecommerce\\Ananas_Ecommerce.csproj",
       "projectName": "Ananas_Ecommerce",
-      "projectPath": "D:\\ananas_api\\Solution1\\Ananas_Ecommerce\\Ananas_Ecommerce.csproj",
+      "projectPath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Ananas_Ecommerce\\Ananas_Ecommerce.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\ananas_api\\Solution1\\Ananas_Ecommerce\\obj\\",
+      "outputPath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Ananas_Ecommerce\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1704,11 +1704,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\ananas_api\\Solution1\\Business\\Business.csproj": {
-              "projectPath": "D:\\ananas_api\\Solution1\\Business\\Business.csproj"
+            "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Business\\Business.csproj": {
+              "projectPath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Business\\Business.csproj"
             },
-            "D:\\ananas_api\\Solution1\\Model\\Model.csproj": {
-              "projectPath": "D:\\ananas_api\\Solution1\\Model\\Model.csproj"
+            "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Model\\Model.csproj": {
+              "projectPath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Model\\Model.csproj"
             }
           }
         }

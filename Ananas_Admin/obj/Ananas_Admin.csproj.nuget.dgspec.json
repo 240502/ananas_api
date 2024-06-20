@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ananas_api\\Solution1\\Ananas_Admin\\Ananas_Admin.csproj": {}
+    "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Ananas_Admin\\Ananas_Admin.csproj": {}
   },
   "projects": {
-    "D:\\ananas_api\\Solution1\\Ananas_Admin\\Ananas_Admin.csproj": {
+    "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Ananas_Admin\\Ananas_Admin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ananas_api\\Solution1\\Ananas_Admin\\Ananas_Admin.csproj",
+        "projectUniqueName": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Ananas_Admin\\Ananas_Admin.csproj",
         "projectName": "Ananas_Admin",
-        "projectPath": "D:\\ananas_api\\Solution1\\Ananas_Admin\\Ananas_Admin.csproj",
+        "projectPath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Ananas_Admin\\Ananas_Admin.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\ananas_api\\Solution1\\Ananas_Admin\\obj\\",
+        "outputPath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Ananas_Admin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\ananas_api\\Solution1\\Business\\Business.csproj": {
-                "projectPath": "D:\\ananas_api\\Solution1\\Business\\Business.csproj"
+              "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Business\\Business.csproj": {
+                "projectPath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Business\\Business.csproj"
               },
-              "D:\\ananas_api\\Solution1\\Model\\Model.csproj": {
-                "projectPath": "D:\\ananas_api\\Solution1\\Model\\Model.csproj"
+              "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Model\\Model.csproj": {
+                "projectPath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Model\\Model.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "D:\\ananas_api\\Solution1\\Business\\Business.csproj": {
+    "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ananas_api\\Solution1\\Business\\Business.csproj",
+        "projectUniqueName": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "D:\\ananas_api\\Solution1\\Business\\Business.csproj",
+        "projectPath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\ananas_api\\Solution1\\Business\\obj\\",
+        "outputPath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -103,11 +103,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\ananas_api\\Solution1\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "D:\\ananas_api\\Solution1\\DataAccessLayer\\DataAccessLayer.csproj"
+              "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "D:\\ananas_api\\Solution1\\Model\\Model.csproj": {
-                "projectPath": "D:\\ananas_api\\Solution1\\Model\\Model.csproj"
+              "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Model\\Model.csproj": {
+                "projectPath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Model\\Model.csproj"
               }
             }
           }
@@ -159,14 +159,14 @@
         }
       }
     },
-    "D:\\ananas_api\\Solution1\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ananas_api\\Solution1\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "D:\\ananas_api\\Solution1\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\ananas_api\\Solution1\\DataAccessLayer\\obj\\",
+        "outputPath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -183,8 +183,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\ananas_api\\Solution1\\Model\\Model.csproj": {
-                "projectPath": "D:\\ananas_api\\Solution1\\Model\\Model.csproj"
+              "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Model\\Model.csproj": {
+                "projectPath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Model\\Model.csproj"
               }
             }
           }
@@ -228,14 +228,14 @@
         }
       }
     },
-    "D:\\ananas_api\\Solution1\\Model\\Model.csproj": {
+    "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ananas_api\\Solution1\\Model\\Model.csproj",
+        "projectUniqueName": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "D:\\ananas_api\\Solution1\\Model\\Model.csproj",
+        "projectPath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\ananas_api\\Solution1\\Model\\obj\\",
+        "outputPath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

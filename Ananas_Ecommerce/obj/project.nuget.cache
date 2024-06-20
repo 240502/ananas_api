@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kdaM0k+bqCx0elhueWz6Xq8G5v5fcby5kaIQYLVL5fmIFnMD6H1iWtRpoJq16LPfKytRdO4z4DSNyPU0RJYRxg==",
+  "dgSpecHash": "wFQRDQHKCSmPFjKVOrp8SZJpNiiSUxYRVWHN0S8v1sngk7iprnFYrrrKzfGlja5UwTcLzMwkURIpNxpWfoh8Ew==",
   "success": true,
-  "projectFilePath": "D:\\ananas_api\\Solution1\\Ananas_Ecommerce\\Ananas_Ecommerce.csproj",
+  "projectFilePath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Ananas_Ecommerce\\Ananas_Ecommerce.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",

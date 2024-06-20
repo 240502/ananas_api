@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GObt9Onq4+Jy9j+RBX7rlzzHcLelUKqb6+nyTN58MFKBW3XCS1phnUgXoXq5oAYNqP25NU8LDwrs01HJO1csjQ==",
+  "dgSpecHash": "09+sMkkl5DjXDvcBZDRER3ln4WgoIzoygzTWlwA+2m4DPYvWuEWaUdfOXqyWo+C5Fxw0a2A2lOfh8NvyXYkd9g==",
   "success": true,
-  "projectFilePath": "D:\\ananas_api\\Solution1\\Gateway\\Gateway.csproj",
+  "projectFilePath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Gateway\\Gateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.1\\microsoft.aspnetcore.jsonpatch.6.0.1.nupkg.sha512",

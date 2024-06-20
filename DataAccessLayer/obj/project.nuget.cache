@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5G0WhNojvquQgMXBFj0Aw4MNzQNWCvyTrY6SPNpidYANCXR9eeWa5o7RUUswYTzZrZ1Gkc3kp4Ndw7cWFzEyPA==",
+  "dgSpecHash": "ExTww13vUGGlq1/sipTU3h4Xn+fMlLGwiFhKQqyWId9o8HM77JOl5pmxLPvupiYlGOdjzWVBsYlWZuOaHFu2Og==",
   "success": true,
-  "projectFilePath": "D:\\ananas_api\\Solution1\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

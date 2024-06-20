@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ICCTZnjBBU7IlZEgclF/GN4lvruCdUDdYzHOVd1ksxnYfyRXXe+PcD6aUorqgE++zEbXuyQBClyaDdEkA3Hdbg==",
+  "dgSpecHash": "9CcKudp0c7lVqI/2qXjnbi5MuYmfvrNDx+D+Gfq2RMlPwmalELy2knXvN3FbXVqz2EZAX9duVWUtVXFeBAckxg==",
   "success": true,
-  "projectFilePath": "D:\\ananas_api\\Solution1\\Business\\Business.csproj",
+  "projectFilePath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

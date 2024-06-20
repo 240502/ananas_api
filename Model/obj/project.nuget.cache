@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QxJEMZcAGJtd/VBNWWSJckzSJYZPfkY7msY1dXeoSutROGJjFP3MChJPbqZpf6HA30Gryh5Ce16ZimiEsGmwQA==",
+  "dgSpecHash": "Q048lqlOEk2eqaS87myrvwR8jM6gMg26OtfMMGj5sQIGya2R9SOi0i2d0vBdcJlGsxXJBzcVCLoW5PoReq727g==",
   "success": true,
-  "projectFilePath": "D:\\ananas_api\\Solution1\\Model\\Model.csproj",
+  "projectFilePath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Model\\Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

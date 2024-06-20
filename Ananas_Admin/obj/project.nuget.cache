@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HJvvQDhLombc5Z2FcBZDa6J06zYDqPWKxMW46/VbH8h0nUBCB/pSLJb7FPBiXAAqgINTZZOAm+oCwcSE9M3w1g==",
+  "dgSpecHash": "7sHYj8nQSCWhWxhl836xKXjK1+CgPDu+Hi4SOrMjvW7e1V2H+aIp2U466TT71+Z6+TpWAd1DTCSgRIdKSK289w==",
   "success": true,
-  "projectFilePath": "D:\\ananas_api\\Solution1\\Ananas_Admin\\Ananas_Admin.csproj",
+  "projectFilePath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Ananas_Admin\\Ananas_Admin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.22\\microsoft.aspnetcore.authentication.jwtbearer.6.0.22.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

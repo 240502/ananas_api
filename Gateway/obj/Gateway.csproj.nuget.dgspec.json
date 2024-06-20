@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ananas_api\\Solution1\\Gateway\\Gateway.csproj": {}
+    "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Gateway\\Gateway.csproj": {}
   },
   "projects": {
-    "D:\\ananas_api\\Solution1\\Gateway\\Gateway.csproj": {
+    "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Gateway\\Gateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ananas_api\\Solution1\\Gateway\\Gateway.csproj",
+        "projectUniqueName": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Gateway\\Gateway.csproj",
         "projectName": "Gateway",
-        "projectPath": "D:\\ananas_api\\Solution1\\Gateway\\Gateway.csproj",
+        "projectPath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Gateway\\Gateway.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\ananas_api\\Solution1\\Gateway\\obj\\",
+        "outputPath": "D:\\Công nghệ Web và ứng dụng\\ananas_backend\\Solution1\\Gateway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
