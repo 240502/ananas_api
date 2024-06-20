@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "ehH8x4owCTXiBEUIo6rV86tWjkNw23ituMcKnUXsSyc=",
+  "Source": "Ananas_Admin",
+  "BasePath": "_content/Ananas_Admin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Ananas_Admin\\wwwroot",
+      "Source": "Ananas_Admin",
+      "ContentRoot": "D:\\ananas_api\\Solution1\\Ananas_Admin\\wwwroot\\",
+      "BasePath": "_content/Ananas_Admin",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

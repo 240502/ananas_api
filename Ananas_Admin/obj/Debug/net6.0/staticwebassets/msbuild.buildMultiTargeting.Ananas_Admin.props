@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ananas_Admin.props" />
+</Project>
